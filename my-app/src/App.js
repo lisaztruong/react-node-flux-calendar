@@ -31,7 +31,7 @@ var App = React.createClass({
                     <meta charSet="utf-8"/>
                     <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
                     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                    <title>React Slot app</title>
+                    <title>Lisaztruong reactjs nodejs flux calendar</title>
                     <link href="css/bootstrap.css" rel="stylesheet"/>
                     <link href="css/app.css" rel="stylesheet"/>
                 </head>
