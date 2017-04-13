@@ -1,4 +1,4 @@
-# react-node-flux
+# react-noteTakingApp
 
 front-end exercise 
 
